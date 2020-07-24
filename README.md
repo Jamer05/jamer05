@@ -16,7 +16,7 @@ Currently, I am learning ML / Stack Web Development at [freeCodeCamp](https://fr
 - 👯 I’m looking to collaborate on open source project
 - 💬 Ask me about anything and everything
 - 📫 How to reach me: jamerkelly09877@gmail.com
-- 🎯 Portfolio site: [https://Jamer05.github.io/J05-LabTest/]
+- 🎯 Portfolio site: [https://Jamer05.github.io/]
 
 ### Skills ###
 ----------------------------------------------------------------------------------------------------------------------------
