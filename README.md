@@ -38,4 +38,4 @@ Currently, I am learning ML / Stack Web Development at [freeCodeCamp](https://fr
   
 </p>
 
-
+![Jamer05's github stats](https://github-readme-stats.vercel.app/api?username=Jamer05&hide=["issues"]&show_icons=true)
