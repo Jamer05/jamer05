@@ -35,6 +35,6 @@ Currently, I am learning ML / Stack Web Development at [freeCodeCamp](https://fr
   <img src="https://img.shields.io/badge/Angular-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-c40f2e" />
   <img src="https://img.shields.io/badge/Python-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-important" /> 
  
-  
+  ![Jamer05's github stats](https://github-readme-stats.vercel.app/api?username=Jamer05&hide=["issues"]&show_icons=true)
+
 </p>
-![Jamer05's github stats](https://github-readme-stats.vercel.app/api?username=Jamer05&hide=["issues"]&show_icons=true)
