@@ -26,7 +26,7 @@ Currently, I am learning ML / Stack Web Development at [freeCodeCamp](https://fr
 - Tools: - **CLI, Git, Github, Developer Tool, Babel and AWS**
 
 <a href="https://github.com/Jamer05">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evildevill&show_icons=true&theme=blue-green&layout=compact" alt"Most use languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jamer05&show_icons=true&theme=blue-green&layout=compact" alt"Most use languages"/>
 </a>
 <p>
 
