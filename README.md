@@ -25,6 +25,9 @@ Currently, I am learning ML / Stack Web Development at [freeCodeCamp](https://fr
 - Databases/ODM: - **MySQL, MongoDB and Mongoose**
 - Tools: - **CLI, Git, Github, Developer Tool, Babel and AWS**
 
+<a href="https://github.com/Jamer05">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evildevill&show_icons=true&theme=blue-green&layout=compact" alt"Most use languages"/>
+</a>
 <p>
 
   <img src="https://img.shields.io/badge/Html5-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-ff7851" /> 
