@@ -15,8 +15,6 @@ Currently, I am learning ML / Stack Web Development at [freeCodeCamp](https://fr
 - 🌱 I’m currently learning ML with python
 - 👯 I’m looking to collaborate on open source project
 - 💬 Ask me about anything and everything
-- 📫 How to reach me: Temporary Unavailable
-- 🎯 Portfolio site: [https://Jamer05.github.io/]
 
 ### Skills ###
 ----------------------------------------------------------------------------------------------------------------------------
@@ -31,12 +29,12 @@ Currently, I am learning ML / Stack Web Development at [freeCodeCamp](https://fr
 <p>
 
   <img src="https://img.shields.io/badge/Html5-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-ff7851" /> 
-  <img src="https://img.shields.io/badge/CSS3-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-9ef380" /> 
-  <img src="https://img.shields.io/badge/Java-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-important" />
-  <img src="https://img.shields.io/badge/JavaScript-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-important" /> 
-  <img src="https://img.shields.io/badge/ReactJS-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-9ef380" /> 
-  <img src="https://img.shields.io/badge/Angular-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-c40f2e" />
-  <img src="https://img.shields.io/badge/Python-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-important" /> 
+  <img src="https://img.shields.io/badge/CSS3-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-9D00FF" /> 
+  <img src="https://img.shields.io/badge/Java-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-FF8700" />
+  <img src="https://img.shields.io/badge/JavaScript-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-FFFF00" /> 
+  <img src="https://img.shields.io/badge/ReactJS-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-FF8894" /> 
+  <img src="https://img.shields.io/badge/Angular-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-FF0000" />
+  <img src="https://img.shields.io/badge/Python-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-0000FF" /> 
   <img src="https://img.shields.io/badge/Ruby-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-B27300" />
   <img src="https://img.shields.io/badge/Shell-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-6EFF00" />
  
