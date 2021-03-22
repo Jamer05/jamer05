@@ -10,7 +10,7 @@
 ----------------------------------------------------------------------------------------------------------------------------
 Currently, I am learning ML / Stack Web Development at [freeCodeCamp](https://freeCodeCamp.org/).
 <img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-<img width="50%" align="right" alt="HTB" src="https://www.hackthebox.eu/images/logo-htb.svg" />
+<img width="50%" align="right" alt="HTB" src="http://www.hackthebox.eu/badge/image/451297" />
 - 🔭 I’m currently working on J05 system software laboratory
 - 🌱 I’m currently learning ML with python
 - 👯 I’m looking to collaborate on open source project
