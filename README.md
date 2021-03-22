@@ -3,6 +3,7 @@
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Jamer05)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-00B3FF?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/hemerson-ramiro-jr-9b64301a2)
 &nbsp;
 
 ### About Me ###
