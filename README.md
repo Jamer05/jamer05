@@ -37,8 +37,8 @@ Currently, I am learning ML / Stack Web Development at [freeCodeCamp](https://fr
   <img src="https://img.shields.io/badge/ReactJS-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-9ef380" /> 
   <img src="https://img.shields.io/badge/Angular-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-c40f2e" />
   <img src="https://img.shields.io/badge/Python-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-important" /> 
-  <img src="https://img.shields.io/badge/Ruby-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%86%86-B27300" />
-  <img src="https://img.shields.io/badge/Shell-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%86%86-6EFF00" />
+  <img src="https://img.shields.io/badge/Ruby-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-B27300" />
+  <img src="https://img.shields.io/badge/Shell-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-6EFF00" />
  
   ![Hemerson's github stats](https://github-readme-stats.vercel.app/api?username=Jamer05&hide=["issues"]&show_icons=true)
 
