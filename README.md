@@ -23,6 +23,8 @@ Currently, I am learning ML / Stack Web Development at [freeCodeCamp](https://fr
 - Databases/ODM: - **MySQL, MongoDB and Mongoose**
 - Tools: - **CLI, Git, Github, Developer Tool, Babel and AWS**
 
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Jamer05&repo=JamerSpammer&theme=light)
+
 <a href="https://github.com/Jamer05">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jamer05&show_icons=true&theme=white-green&layout=compact" alt"Most use languages"/>
 </a>
