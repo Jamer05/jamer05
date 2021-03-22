@@ -4,13 +4,14 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-00B3FF?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/hemerson-ramiro-jr-9b64301a2)
+[![HackTheBox](http://www.hackthebox.eu/badge/image/451297)](https://www.hackthebox.eu/home/users/profile/451297)
 &nbsp;
 
 ### About Me ###
 ----------------------------------------------------------------------------------------------------------------------------
 Currently, I am learning ML / Stack Web Development at [freeCodeCamp](https://freeCodeCamp.org/).
 <img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-<img align="right" alt="HTB" src="http://www.hackthebox.eu/badge/image/451297" />
+
 - 🔭 I’m currently working on J05 system software laboratory
 - 🌱 I’m currently learning ML with python
 - 👯 I’m looking to collaborate on open source project
