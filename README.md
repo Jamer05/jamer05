@@ -7,6 +7,11 @@
 [![HackTheBox](http://www.hackthebox.eu/badge/image/451297)](https://www.hackthebox.eu/home/users/profile/451297)
 &nbsp;
 
+---
+
+<img width=100% src="https://github-profile-trophy.vercel.app/?username=jamer05x&column=7"/>
+
+---
 ### About Me ###
 ----------------------------------------------------------------------------------------------------------------------------
 Currently, I am learning ML / Stack Web Development at [freeCodeCamp](https://freeCodeCamp.org/).
