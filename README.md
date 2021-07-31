@@ -9,7 +9,7 @@
 
 ---
 
-<img width=100% src="https://github-profile-trophy.vercel.app/?username=fytex&column=7"/>
+<img width=100% src="https://github-profile-trophy.vercel.app/?username=jamer05x&column=7"/>
 
 ---
 ### About Me ###
