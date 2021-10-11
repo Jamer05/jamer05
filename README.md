@@ -52,3 +52,4 @@ Currently, I am learning ML / Stack Web Development at [freeCodeCamp](https://fr
   ![Hemerson's github stats](https://github-readme-stats.vercel.app/api?username=Jamer05&hide=["issues"]&show_icons=true)
 
 </p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jamer05&" alt="Jamer05" /></p>
