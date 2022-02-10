@@ -1,4 +1,4 @@
-## Hi 👋, I'm Jamer. a Python Developer ##
+## Hi 👋, I'm Jamer. iboto sa darating na halalan number 10 sa balota
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Jamer05)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](/)
