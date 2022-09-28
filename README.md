@@ -22,14 +22,6 @@ Currently, I am learning ML / Stack Web Development at [freeCodeCamp](https://fr
 - 👯 I’m looking to collaborate on open source project
 - 💬 Ask me about anything and everything
 
-### Skills ###
-----------------------------------------------------------------------------------------------------------------------------
-- Languages - **HTML, CSS and JavaScript**
-- Libraries/Frameworks: - **SCSS/SASS, Bootstrap, React, Redux, NodeJS, ExpressJS and REST API**
-- Databases/ODM: - **MySQL, MongoDB and Mongoose**
-- Tools: - **CLI, Git, Github, Developer Tool, Babel and AWS**
-
-
 ### Featured ###
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Jamer05&repo=Jamer-Spammer&theme=light)
 
