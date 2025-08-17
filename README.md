@@ -1,7 +1,7 @@
 ## Hi 👋, I'm Jamer. a Python Developer
 
 
-[![HackTheBox](https://labs.hackthebox.com/achievement/badge/451297/216)](https://app.hackthebox.com/profile/451297)
+[![HackTheBox](https://app.hackthebox/badge/image/451297)](https://app.hackthebox.com/profile/451297)
 &nbsp;
 
 ---
